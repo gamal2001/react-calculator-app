@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gamal2001/React-Form.git/static/css/main.56bf88e1.css",
-    "main.js": "/gamal2001/React-Form.git/static/js/main.3b15d13e.js",
-    "index.html": "/gamal2001/React-Form.git/index.html",
-    "main.56bf88e1.css.map": "/gamal2001/React-Form.git/static/css/main.56bf88e1.css.map",
-    "main.3b15d13e.js.map": "/gamal2001/React-Form.git/static/js/main.3b15d13e.js.map"
+    "main.css": "/gamal2001/mouse-position-react/static/css/main.626560f8.css",
+    "main.js": "/gamal2001/mouse-position-react/static/js/main.42a98c3e.js",
+    "index.html": "/gamal2001/mouse-position-react/index.html",
+    "main.626560f8.css.map": "/gamal2001/mouse-position-react/static/css/main.626560f8.css.map",
+    "main.42a98c3e.js.map": "/gamal2001/mouse-position-react/static/js/main.42a98c3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.56bf88e1.css",
-    "static/js/main.3b15d13e.js"
+    "static/css/main.626560f8.css",
+    "static/js/main.42a98c3e.js"
   ]
 }
